@@ -26,8 +26,9 @@ git clone https://github.com/Professor1416/Java_Project.git
 ```
 2.Open the project in your Java IDE.
 3. Compile and run the project.
+
 ###Usage
-Admin Login: Start with a secure login to access all features.
-Customer Operations: Add, view, and edit customer information.
-Bill Generation: Input electricity usage data to automatically generate bills.
-Payment Management: Update payment status for customer accounts and view transaction history.
+1.Admin Login: Start with a secure login to access all features.
+2.Customer Operations: Add, view, and edit customer information.
+3.Bill Generation: Input electricity usage data to automatically generate bills.
+4.Payment Management: Update payment status for customer accounts and view transaction history.
